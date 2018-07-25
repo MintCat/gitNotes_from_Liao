@@ -269,7 +269,7 @@ $ git tag -d <tagname>
 $ git push origin :refs/tags/<tagname>
 ```
 #### 配置忽略文件
-在Git工作区的根目录下创建一个```.gitignore```文件, 然后把要忽略的文件名填进去即可。配置文件可以参考[github/gitignore](https://github.com/github/gitignore)如:
+在Git工作区的根目录下创建一个```.gitignore```文件, 然后把要忽略的文件名填进去即可。配置文件可以参考[github/gitignore](https://github.com/github/gitignore)。如:
 
 ```
 # Windows:
